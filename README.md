@@ -6,7 +6,7 @@ Vendredi grosse festoche chez PA
 
 
  <details>
-  <summary>Spoiler warning</summary>
+  <summary>Spoiler</summary>
   
   C fo P.A il ve pa.
   
