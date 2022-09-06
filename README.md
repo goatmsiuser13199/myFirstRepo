@@ -14,3 +14,11 @@ Vendredi grosse festoche chez PA
 
   
 </details>
+
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("APEROOOOOOOOO")
+}
